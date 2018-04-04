@@ -1,0 +1,10 @@
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\C#_IntroAssignments\SimpleCRUD\bin\Debug\netcoreapp2.0\SimpleCRUD.deps.json
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\C#_IntroAssignments\SimpleCRUD\bin\Debug\netcoreapp2.0\SimpleCRUD.runtimeconfig.json
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\C#_IntroAssignments\SimpleCRUD\bin\Debug\netcoreapp2.0\SimpleCRUD.runtimeconfig.dev.json
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\C#_IntroAssignments\SimpleCRUD\bin\Debug\netcoreapp2.0\SimpleCRUD.dll
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\C#_IntroAssignments\SimpleCRUD\bin\Debug\netcoreapp2.0\SimpleCRUD.pdb
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\C#_IntroAssignments\SimpleCRUD\obj\Debug\netcoreapp2.0\SimpleCRUD.csproj.CoreCompileInputs.cache
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\C#_IntroAssignments\SimpleCRUD\obj\Debug\netcoreapp2.0\SimpleCRUD.AssemblyInfoInputs.cache
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\C#_IntroAssignments\SimpleCRUD\obj\Debug\netcoreapp2.0\SimpleCRUD.AssemblyInfo.cs
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\C#_IntroAssignments\SimpleCRUD\obj\Debug\netcoreapp2.0\SimpleCRUD.dll
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\C#_IntroAssignments\SimpleCRUD\obj\Debug\netcoreapp2.0\SimpleCRUD.pdb
