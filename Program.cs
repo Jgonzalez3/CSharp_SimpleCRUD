@@ -10,9 +10,8 @@ namespace SimpleCRUD
         public static void Show(){
             var users = DbConnector.Query("SELECT * FROM users");
             foreach (var user in users){
-            Console.WriteLine("User Info:");
                 foreach(KeyValuePair<string, object> entry in user){
-                    Console.WriteLine(entry);
+                    Console.WriteLine($"{entry.Key}: {entry.Value}");
                 }
             }
         }
@@ -31,7 +30,7 @@ namespace SimpleCRUD
         static void Main(string[] args)
         {
             Show();
-            Create();
+            // Create();
         }
     }
 }
